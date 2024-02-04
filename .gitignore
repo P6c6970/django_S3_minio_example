@@ -1,0 +1,3 @@
+!/.env
+!/minio/
+!/db.sqlite3
